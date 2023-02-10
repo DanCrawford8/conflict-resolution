@@ -1,1 +1,4 @@
 # conflict-resolution
+
+test content
+
